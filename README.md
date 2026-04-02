@@ -76,7 +76,27 @@ project/
 
 ## 📸 Screenshots
 
-*Add screenshots of your Streamlit app here*
+### 🔮 Prediction Interface
+Displays user input and predicted heating load using the selected model.
+
+![Prediction](screenshot/prediction.png)
+
+---
+
+### 📊 Model Comparison
+Compares predictions across different regression models.
+
+![Model Comparison](screenshot/model_comparison.png)
+
+---
+
+### 📌 Feature Importance
+Shows the most influential features affecting heating load.
+
+![Feature Importance](screenshot/feature_importance.png)
+
+
+
 
 ---
 
